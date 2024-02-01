@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell", "Shell\Shell.csproj", "{6DB1A53F-147B-42C5-BC95-A7BF19ACCC50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shell", "Shell\Shell.csproj", "{6DB1A53F-147B-42C5-BC95-A7BF19ACCC50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListDir", "ListDir\ListDir.csproj", "{986A1C71-A38F-444B-A269-3FF451D1472B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListDir", "ListDir\ListDir.csproj", "{986A1C71-A38F-444B-A269-3FF451D1472B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clear", "Clear\Clear.csproj", "{963249F5-F67F-4EC7-B08B-7CA1CEB03B3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clear", "Clear\Clear.csproj", "{963249F5-F67F-4EC7-B08B-7CA1CEB03B3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
